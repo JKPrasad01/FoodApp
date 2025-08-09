@@ -2,7 +2,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Last Commit](https://img.shields.io/github/last-commit/JKPrasad01/FoodApp)
-![License](https://img.shields.io/badge/License-MIT-blue)
 ![Java](https://img.shields.io/badge/Java-Full%20Stack-orange)
 
 A **full-stack food ordering platform** with user authentication, a shopping cart, and real-time order tracking.
