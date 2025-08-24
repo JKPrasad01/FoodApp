@@ -32,7 +32,7 @@ A **full-stack food ordering platform** with user authentication, a shopping car
 
 | Home Page | Menu Page | Cart Page |
 |-----------|-----------|-----------|
-| ![Home](screenshots/home.png) | ![Menu](screenshots/menu.png) | ![Cart](screenshots/cart.png) |
+| ![Home]("C:\Users\Prasad\OneDrive\Pictures\Screenshots 1\Screenshot 2025-08-24 140926.png") | ![Menu](screenshots/menu.png) | ![Cart](screenshots/cart.png) |
 
 *(Replace these paths with your actual screenshot file paths or URLs)*
 
