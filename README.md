@@ -27,14 +27,169 @@ A **full-stack food ordering platform** with user authentication, a shopping car
 | **Database**  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> **MySQL** |
 
 ---
+## 📸 Application Walkthrough  
+
+A step-by-step journey through the Food Delivery App.  
+
+---
+
+
+## 📸 Application Walkthrough  
+
+A step-by-step journey through the Food Delivery App.  
+
+---
+
+### 🔑 Authentication  
+<div align="center">
+
+| ![Login](https://github.com/JKPrasad01/FoodApp/blob/master/1.sign%20in%20page.jpg) | ![Register](https://github.com/JKPrasad01/FoodApp/blob/master/2.create%20account.jpg) |
+|:--:|:--:|
+| 🔑 **Login Page** | 📝 **User Registration** |
+
+</div>
+
+---
+
+### 🏠 Explore Restaurants  
+<div align="center">
+
+| ![Home](https://github.com/JKPrasad01/FoodApp/blob/master/3.home%20page_restaruants%20available.jpg) | ![Menu](https://github.com/JKPrasad01/FoodApp/blob/master/4.menu%20section.jpg) |
+|:--:|:--:|
+| 🏠 **Home Page — Restaurant Listings** | 🍔 **Menu Page — Browse Food Items** |
+
+</div>
+
+---
+
+### 🛒 Cart & Checkout  
+<div align="center">
+
+| ![Cart](https://github.com/JKPrasad01/FoodApp/blob/master/cart.jpg) | ![Checkout](https://github.com/JKPrasad01/FoodApp/blob/master/6.billing%20section.jpg) |
+|:--:|:--:|
+| 🛒 **Cart Page — Review Orders** | 💳 **Checkout — Billing & Payment** |
+
+</div>
+
+---
+
+### 📦 Orders & Profile  
+<div align="center">
+
+| ![Orders](https://github.com/JKPrasad01/FoodApp/blob/master/5.order%20history.jpg) | ![Profile](https://github.com/JKPrasad01/FoodApp/blob/master/profile%20info.jpg) |
+|:--:|:--:|
+| 📦 **Order History — Past Orders** | 👤 **User Profile Information** |
+
+</div>
+
+---
+
+### ⚙️ Admin Features  
+<div align="center">
+
+| ![Admin](https://github.com/JKPrasad01/FoodApp/blob/master/Restaraunt%20Registration.jpg) |   |
+|:--:|:--:|
+| ⚙️ **Restaurant Admin Registration** |   |
+
+</div>
+
+
+## 📸 Application Walkthrough  
+
+> A step-by-step journey through the Food Delivery App.  
+
+---
+
+### 🔑 Authentication  
+<p align="center">
+  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/1.sign%20in%20page.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
+  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/2.create%20account.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
+</p>
+
+---
+
+### 🏠 Explore Restaurants  
+<p align="center">
+  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/3.home%20page_restaruants%20available.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
+  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/4.menu%20section.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
+</p>
+
+---
+
+### 🛒 Cart & Checkout  
+<p align="center">
+  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/cart.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
+  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/6.billing%20section.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
+</p>
+
+---
+
+### 📦 Orders & Profile  
+<p align="center">
+  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/5.order%20history.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
+  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/profile%20info.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
+</p>
+
+---
+
+### ⚙️ Admin Features  
+<p align="center">
+  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/Restaraunt%20Registration.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
+</p>
+
+
+
+
 
 ## 📸 Screenshots
 
-| Home Page | Menu Page | Cart Page |
-|-----------|-----------|-----------|
-| ![Home]("C:\Users\Prasad\OneDrive\Pictures\Screenshots 1\Screenshot 2025-08-24 140926.png") | ![Menu](screenshots/menu.png) | ![Cart](screenshots/cart.png) |
+<details>
+  <summary>🔑 Login & Registration</summary>
+  <p align="center">
+    <img src="https://github.com/JKPrasad01/FoodApp/blob/master/1.sign%20in%20page.jpg" alt="Login" width="400"/>
+    <img src="https://github.com/JKPrasad01/FoodApp/blob/master/2.create%20account.jpg" alt="Register" width="400"/>
+  </p>
+  <p align="center"><em>Login Page | Registration Page</em></p>
+</details>
 
-*(Replace these paths with your actual screenshot file paths or URLs)*
+<details>
+  <summary>🏠 Home & 🍔 Menu</summary>
+  <p align="center">
+    <img src="https://github.com/JKPrasad01/FoodApp/blob/master/3.home%20page_restaruants%20available.jpg" alt="Home" width="400"/>
+    <img src="https://github.com/JKPrasad01/FoodApp/blob/master/4.menu%20section.jpg" alt="Menu" width="400"/>
+  </p>
+  <p align="center"><em>Home Page | Menu Section</em></p>
+</details>
+
+<details>
+  <summary>🛒 Cart & 💳 Checkout</summary>
+  <p align="center">
+    <img src="https://github.com/JKPrasad01/FoodApp/blob/master/cart.jpg" alt="Cart" width="400"/>
+    <img src="https://github.com/JKPrasad01/FoodApp/blob/master/6.billing%20section.jpg" alt="Checkout" width="400"/>
+  </p>
+  <p align="center"><em>Cart Page | Checkout / Billing Section</em></p>
+</details>
+
+<details>
+  <summary>📦 Order History & 👤 User Profile</summary>
+  <p align="center">
+    <img src="https://github.com/JKPrasad01/FoodApp/blob/master/5.order%20history.jpg" alt="Order History" width="400"/>
+    <img src="https://github.com/JKPrasad01/FoodApp/blob/master/profile%20info.jpg" alt="Profile" width="400"/>
+  </p>
+  <p align="center"><em>Order History | User Profile</em></p>
+</details>
+
+<details>
+  <summary>⚙️ Restaurant Admin Registration</summary>
+  <p align="center">
+    <img src="https://github.com/JKPrasad01/FoodApp/blob/master/Restaraunt%20Registration.jpg" alt="Admin" width="400"/>
+  </p>
+  <p align="center"><em>Restaurant Admin Registration</em></p>
+</details>
+
+
+
+
 
 ---
 
