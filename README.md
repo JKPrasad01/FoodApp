@@ -17,6 +17,11 @@ A **full-stack food ordering platform** with user authentication, a shopping car
 - **⚡ Optimized Performance:** Reduced database latency through optimized queries.
 
 ---
+## 🌐 Live Demo
+
+🔗 [**Click here to view the live demo**](https://your-live-demo-link.com)  
+
+---
 
 ## 💻 Tech Stack
 
@@ -26,10 +31,7 @@ A **full-stack food ordering platform** with user authentication, a shopping car
 | **Backend**   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/> **Java** &nbsp; <img src="https://img.shields.io/badge/J2EE-1F5B8A?style=flat&logoColor=white" height="20"/> **J2EE** &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" width="60"/> **Hibernate** &nbsp; <img src="https://img.icons8.com/ios-filled/50/000000/data.png" width="30"/> **JDBC** |
 | **Database**  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> **MySQL** |
 
----
-## 📸 Application Walkthrough  
-
-A step-by-step journey through the Food Delivery App.  
+ 
 
 ---
 
@@ -94,49 +96,6 @@ A step-by-step journey through the Food Delivery App.
 </div>
 
 
-## 📸 Application Walkthrough  
-
-> A step-by-step journey through the Food Delivery App.  
-
----
-
-### 🔑 Authentication  
-<p align="center">
-  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/1.sign%20in%20page.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
-  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/2.create%20account.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
-</p>
-
----
-
-### 🏠 Explore Restaurants  
-<p align="center">
-  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/3.home%20page_restaruants%20available.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
-  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/4.menu%20section.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
-</p>
-
----
-
-### 🛒 Cart & Checkout  
-<p align="center">
-  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/cart.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
-  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/6.billing%20section.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
-</p>
-
----
-
-### 📦 Orders & Profile  
-<p align="center">
-  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/5.order%20history.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
-  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/profile%20info.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
-</p>
-
----
-
-### ⚙️ Admin Features  
-<p align="center">
-  <img src="https://github.com/JKPrasad01/FoodApp/blob/master/Restaraunt%20Registration.jpg" width="350" style="border:1px solid #ddd; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.15);" />
-</p>
-
 
 
 
@@ -193,22 +152,26 @@ A step-by-step journey through the Food Delivery App.
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [**Click here to view the live demo**](https://your-live-demo-link.com)  
-*(Replace with your hosted link or demo video)*
-
----
-📧 Contact
-📩 Email: prasadjk2241@gmail.com
-💼 GitHub: JKPrasad01
-
-
 ## 🚀 Quick Start
 
 1️⃣ **Clone the repository**
 ```bash
 git clone https://github.com/JKPrasad01/FoodApp.git
 cd FoodApp
+```
+---
+## 📫 Contact & Let's Work
+
+Email: prasadjk2241@gmail.com
+
+LinkedIn: https://linkedin.com/in/jk-prasad
+
+GitHub: https://github.com/JKPrasad01
+
+---
+
+## Interested in collaborating or hiring? — Click Let's Chat on my portfolio or drop me an email. I'm open to Full Stack roles.
+
+
 
 
